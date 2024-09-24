@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bohfi.github.io/lCM/sitemap.lCM.gz
